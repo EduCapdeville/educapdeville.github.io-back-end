@@ -13,10 +13,6 @@ Nome: Eduardo Capdeville
 Email: capdevilleeduardo@gmail.com
 Mensagem: wdawfaegafaw
 
-Nome: Cristiane Capdeville
-Email: criscapdeville@yahoo.com.br
-Mensagem: Oi filho!
-
 Nome: string
 Email: string
 Mensagem: string
